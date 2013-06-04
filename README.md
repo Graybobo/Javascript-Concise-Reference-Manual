@@ -10,6 +10,12 @@ Javascript-Concise-Reference-Manual
   - [Javascript 关键词](/Keywords/Keywords.md)
   - [Javascript 保留字](/Reserved/Reserved-words.md)
   - [预定义的全局变量和函数](/Predefined/Predefined.md)
+  
+**严格模式( Strict mode ):**
+
+  ```javascript
+  "use strict";
+  ```
 
 **数据类型( Types ):**
 
