@@ -19,12 +19,12 @@ Javascript-Concise-Reference-Manual
 
 **数据类型( Types ):**
 
-  - String       ( Primitive type )
-  - Number       ( Primitive type )
-  - Boolean      ( Primitive type )
-  - null         ( Primitive type )
-  - undefined    ( Primitive type )
-  - Object       ( Object type )
+  - String              ( Primitive type )
+  - Number              ( Primitive type )
+  - Boolean             ( Primitive type )
+  - null                ( Primitive type )
+  - undefined           ( Primitive type )
+  - Object              ( Object type )
 
 **操作符( 运算符 ):**
 
@@ -89,3 +89,12 @@ Javascript-Concise-Reference-Manual
     - `typeof`          [ 检测操作数类型 ] 返回一个字符串 表明未计算的操作数的类型
     - `instanceof`      [ 测试对象类 ] 检查一个对象是否是某种类 返回布尔类型
     - `in`              检查属性是否存在
+    - `.`               [ 对象属性存取运算符 ] 对象名.属性名
+    - `[]`              [ 数组元素存取运算符 ] 数组名[下标]
+    - `()`              [ 函数调用运算符 ] 其作用是调用函数
+
+**全局属性:**
+
+  - [Infinity](/Global/Infinity.md) - 表示无穷大的数值属性
+  - [NaN](/Global/NaN.md) - 表示非数字值属性
+  - [undefined](/Global/undefined.md) - 表示未定义的值
