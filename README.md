@@ -5,19 +5,19 @@ Javascript-Concise-Reference-Manual
 
 ( 参考 ECMAScript3 标准和 ECMAScript5 标准部分内容，对 ECMAScript3 和 ECMAScript5 不符/存在差异的内容和存在争议之处请视实际情况处之或以相关标准规范为准！ )
 
-**Javascript 关键词&&保留字:**
+### Javascript 关键词&&保留字:
 
   - [Javascript 关键词](/Keywords/Keywords.md)
   - [Javascript 保留字](/Reserved/Reserved-words.md)
   - [预定义的全局变量和函数](/Predefined/Predefined.md)
   
-**严格模式( Strict mode ):**
+### 严格模式( Strict mode ):
 
   ```javascript
   "use strict";
   ```
 
-**数据类型( Types ):**
+### 数据类型( Types ):
 
   - String              ( Primitive type )
   - Number              ( Primitive type )
@@ -26,7 +26,7 @@ Javascript-Concise-Reference-Manual
   - undefined           ( Primitive type )
   - Object              ( Object type )
 
-**操作符( 运算符 ):**
+### 操作符( 运算符 ):
 
   - 算术操作符
     - `+`               [ 加法 ] 将两个数相加
@@ -93,7 +93,7 @@ Javascript-Concise-Reference-Manual
     - `[]`              [ 数组元素存取运算符 ] 数组名[下标]
     - `()`              [ 函数调用运算符 ] 其作用是调用函数
 
-**全局属性:**
+### 全局属性:
 
   - [Infinity](/Global/Infinity.md) - 表示无穷大的数值属性
   - [NaN](/Global/NaN.md) - 表示非数字值属性
