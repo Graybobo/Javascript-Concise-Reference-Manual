@@ -98,3 +98,8 @@ Javascript-Concise-Reference-Manual
   - [Infinity](/Global/Infinity.md) - 表示无穷大的数值属性
   - [NaN](/Global/NaN.md) - 表示非数字值属性
   - [undefined](/Global/undefined.md) - 表示未定义的值
+
+### 全局函数:
+
+  - [encodeURI](/Global/encodeURI.md) - 把字符串作为 URI 进行编码
+  - [decodeURI](/Global/decodeURI.md) - 对 encodeURI 函数编码过的 URI 进行解码
