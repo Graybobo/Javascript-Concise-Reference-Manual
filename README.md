@@ -107,3 +107,4 @@ Javascript-Concise-Reference-Manual
   - [decodeURI](/Global/decodeURI.md) - 对 encodeURI 函数编码过的 URI 进行解码
   - [encodeURIComponent](/Global/encodeURIComponent.md) - 把字符串作为 URI 组件进行编码
   - [decodeURIComponent](/Global/decodeURIComponent.md) - 对 encodeURIComponent 函数编码的 URI 进行解码
+  - [eval](/Global/eval.md) - 计算 JavaScript 字符串，并把它作为脚本代码来执行
