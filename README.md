@@ -98,6 +98,8 @@ Javascript-Concise-Reference-Manual
   - [Infinity](/Global/Infinity.md) - 表示无穷大的数值属性
   - [NaN](/Global/NaN.md) - 表示非数字值属性
   - [undefined](/Global/undefined.md) - 表示未定义的值
+  - [java.*](/Global/java.md) - 表示 java.* 包层级的 JavaPackage
+  - [Packages](/Global/Packages.md) - 根 JavaPackage 对象
 
 ### 全局函数:
 
