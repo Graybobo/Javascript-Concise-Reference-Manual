@@ -103,3 +103,5 @@ Javascript-Concise-Reference-Manual
 
   - [encodeURI](/Global/encodeURI.md) - 把字符串作为 URI 进行编码
   - [decodeURI](/Global/decodeURI.md) - 对 encodeURI 函数编码过的 URI 进行解码
+  - [encodeURIComponent](/Global/encodeURIComponent.md) - 把字符串作为 URI 组件进行编码
+  - [decodeURIComponent](/Global/decodeURIComponent.md) - 对 encodeURIComponent 函数编码的 URI 进行解码

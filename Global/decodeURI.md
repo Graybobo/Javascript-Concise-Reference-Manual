@@ -1,4 +1,4 @@
-## decodeURI 属性:
+## decodeURI 函数:
 
 decodeURI -- 对 encodeURI 函数编码过的 URI 进行解码
 
