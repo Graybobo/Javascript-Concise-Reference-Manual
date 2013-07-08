@@ -108,3 +108,5 @@ Javascript-Concise-Reference-Manual
   - [encodeURIComponent](/Global/encodeURIComponent.md) - 把字符串作为 URI 组件进行编码
   - [decodeURIComponent](/Global/decodeURIComponent.md) - 对 encodeURIComponent 函数编码的 URI 进行解码
   - [eval](/Global/eval.md) - 计算 JavaScript 字符串，并把它作为脚本代码来执行
+  - [isFinite](/Global/isFinite.md) - 检查其参数是否是无穷大
+  - [isNaN](/Global/isNaN.md) - 检查某个值是否是数字
