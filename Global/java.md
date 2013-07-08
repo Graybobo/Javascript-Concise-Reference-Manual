@@ -1,4 +1,4 @@
-## java.* 属性:
+## java.* 属性
 
 表示 java.* 包层级的 JavaPackage
 

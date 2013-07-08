@@ -1,4 +1,4 @@
-## Packages 属性:
+## Packages 属性
 
 根 JavaPackage
 

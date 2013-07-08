@@ -1,4 +1,4 @@
-## Javascript undefined 属性:
+## Javascript undefined 属性
 
 undefined -- 表示未定义的值
 

@@ -1,4 +1,4 @@
-## Javascript NaN 属性:
+## Javascript NaN 属性
 
 NaN -- 表示非数字值属性
 

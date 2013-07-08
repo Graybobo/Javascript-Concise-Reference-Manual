@@ -1,4 +1,4 @@
-## Javascript Infinity 属性:
+## Javascript Infinity 属性
 
 Infinity -- 表示无穷大的数值属性
 
