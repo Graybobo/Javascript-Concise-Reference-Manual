@@ -1,4 +1,4 @@
-## encodeURIComponent() 函数:
+## encodeURIComponent() 函数
 
 encodeURIComponent() -- 把字符串作为 URI 组件进行编码
 

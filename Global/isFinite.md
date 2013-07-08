@@ -1,4 +1,4 @@
-## isFinite() 函数:
+## isFinite() 函数
 
 isFinite() -- 检查其参数是否是无穷大
 

@@ -1,4 +1,4 @@
-## decodeURIComponent() 函数:
+## decodeURIComponent() 函数
 
 decodeURIComponent() -- 对 encodeURIComponent 函数编码的 URI 进行解码
 

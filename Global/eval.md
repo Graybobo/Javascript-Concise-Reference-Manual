@@ -1,4 +1,4 @@
-## eval() 函数:
+## eval() 函数
 
 eval() -- 计算 JavaScript 字符串，并把它作为脚本代码来执行
 
