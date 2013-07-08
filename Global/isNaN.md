@@ -1,18 +1,18 @@
-## isNaN 函数:
+## isNaN() 函数:
 
-isNaN -- 检查其参数是否是非数字值
+isNaN() -- 检查其参数是否是非数字值
 
-### isNaN 语法:
+### isNaN() 语法:
 
   ```javascript
   isNaN( x );
   ```
 
-### isNaN 参数说明:
+### isNaN() 参数说明:
 
 x -- 要检测的值
 
-### isNaN 函数返回值:
+### isNaN() 函数返回值:
 
   如果 x 是特殊的非数字值 NaN（或者能被转换为这样的值），返回的值就是 true。如果 x 是其他值,则返回 false。
 

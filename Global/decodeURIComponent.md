@@ -1,18 +1,18 @@
-## decodeURIComponent 函数:
+## decodeURIComponent() 函数:
 
-decodeURIComponent -- 对 encodeURIComponent 函数编码的 URI 进行解码
+decodeURIComponent() -- 对 encodeURIComponent 函数编码的 URI 进行解码
 
-### decodeURIComponent 语法:
+### decodeURIComponent() 语法:
 
   ```javascript
   decodeURIComponent( URIstring );
   ```
 
-### decodeURIComponent 函数参数说明:
+### decodeURIComponent() 函数参数说明:
 
 URIstring -- 字符串，含有编码 URI 组件或其他要解码的文本。
 
-### decodeURIComponent 函数返回值:
+### decodeURIComponent() 函数返回值:
 
 URIstring 的副本，其中的十六进制转义序列将被它们表示的字符替换。
 

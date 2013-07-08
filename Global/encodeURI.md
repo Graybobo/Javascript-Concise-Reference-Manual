@@ -1,18 +1,18 @@
-## encodeURI 函数:
+## encodeURI() 函数:
 
-encodeURI -- 把字符串作为 URI 进行编码
+encodeURI() -- 把字符串作为 URI 进行编码
 
-### encodeURI 语法:
+### encodeURI() 语法:
 
   ```javascript
   encodeURI( string );
   ```
 
-### encodeURI 函数参数说明:
+### encodeURI() 函数参数说明:
 
 string -- 需要编码的字符串，含有 URI 或其他要编码的文本。
 
-### encodeURI 函数返回值:
+### encodeURI() 函数返回值:
 
 string 的副本，其中的某些字符将被十六进制的转义序列进行替换。
 

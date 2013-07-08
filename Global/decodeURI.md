@@ -1,18 +1,18 @@
-## decodeURI 函数:
+## decodeURI() 函数:
 
-decodeURI -- 对 encodeURI 函数编码过的 URI 进行解码
+decodeURI() -- 对 encodeURI 函数编码过的 URI 进行解码
 
-### decodeURI 语法:
+### decodeURI() 语法:
 
   ```javascript
   decodeURI( string );
   ```
 
-### decodeURI 函数参数说明:
+### decodeURI() 函数参数说明:
 
 string -- 需要解码的字符串，含有要解码的 URI 或其他要解码的文本。
 
-### decodeURI 函数返回值:
+### decodeURI() 函数返回值:
 
 string 的副本，其中的十六进制转义序列将被它们表示的字符替换。
 

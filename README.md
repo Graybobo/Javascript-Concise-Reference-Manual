@@ -103,10 +103,12 @@ Javascript-Concise-Reference-Manual
 
 ### 全局函数:
 
-  - [encodeURI](/Global/encodeURI.md) - 把字符串作为 URI 进行编码
-  - [decodeURI](/Global/decodeURI.md) - 对 encodeURI 函数编码过的 URI 进行解码
-  - [encodeURIComponent](/Global/encodeURIComponent.md) - 把字符串作为 URI 组件进行编码
-  - [decodeURIComponent](/Global/decodeURIComponent.md) - 对 encodeURIComponent 函数编码的 URI 进行解码
-  - [eval](/Global/eval.md) - 计算 JavaScript 字符串，并把它作为脚本代码来执行
-  - [isFinite](/Global/isFinite.md) - 检查其参数是否是无穷大
-  - [isNaN](/Global/isNaN.md) - 检查某个值是否是数字
+  - [encodeURI()](/Global/encodeURI.md) - 把字符串作为 URI 进行编码
+  - [decodeURI()](/Global/decodeURI.md) - 对 encodeURI 函数编码过的 URI 进行解码
+  - [encodeURIComponent()](/Global/encodeURIComponent.md) - 把字符串作为 URI 组件进行编码
+  - [decodeURIComponent()](/Global/decodeURIComponent.md) - 对 encodeURIComponent 函数编码的 URI 进行解码
+  - [eval()](/Global/eval.md) - 计算 JavaScript 字符串，并把它作为脚本代码来执行
+  - [isFinite()](/Global/isFinite.md) - 检查其参数是否是无穷大
+  - [isNaN()](/Global/isNaN.md) - 检查某个值是否是数字
+  - [Number()](/Global/Number.md) - 把对象的值转换为数字
+  - [String()](/Global/String.md) - 把对象的值转换为字符串

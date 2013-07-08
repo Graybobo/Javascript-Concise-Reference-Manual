@@ -1,18 +1,18 @@
-## eval 函数:
+## eval() 函数:
 
-eval -- 计算 JavaScript 字符串，并把它作为脚本代码来执行
+eval() -- 计算 JavaScript 字符串，并把它作为脚本代码来执行
 
-### eval 语法:
+### eval() 语法:
 
   ```javascript
   eval( CODEstring );
   ```
 
-### eval 函数参数说明:
+### eval() 函数参数说明:
 
 CODEstring -- 代码字符串，其中含有要计算的 JavaScript 表达式或要执行的语句。
 
-### eval 函数返回值:
+### eval() 函数返回值:
 
   - 如果没有参数，返回undefined
   - 如果有返回值将返回此值，否则返回undefined
@@ -20,7 +20,7 @@ CODEstring -- 代码字符串，其中含有要计算的 JavaScript 表达式或
   - 如果为语句返回语句的值
   - 如果为多条语句或表达式返回最后一条语句的值
 
-### eval 函数说明：
+### eval() 函数说明：
 
 该方法只接受原始字符串作为参数，如果 string 参数不是原始字符串，那么该方法将不作任何改变地返回。因此请不要为 eval() 函数传递 String 对象来作为参数。
 
