@@ -32,8 +32,8 @@
   - EvalError -- 非法调用 eval 函数
   - Error -- 当 eval 解析的 Javascript 表达式或语句出现异常时，eval 也会抛出这个异常。
 
-  如果参数中没有合法的表达式和语句，则抛出 SyntaxError 异常。
+##### 异常抛出：
 
-  如果非法调用 eval()，则抛出 EvalError 异常。
-
-  如果传递给 eval() 的 Javascript 代码生成了一个异常，eval() 将把该异常传递给调用者。
+  - 如果参数中没有合法的表达式和语句，则抛出 SyntaxError 异常。
+  - 如果非法调用 eval()，则抛出 EvalError 异常。
+  - 如果传递给 eval() 的 Javascript 代码生成了一个异常，eval() 将把该异常传递给调用者。
