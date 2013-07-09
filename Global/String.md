@@ -1,18 +1,18 @@
-## String() 函数
+#### Javascript String() 函数
 
-String() -- 把对象的值转换为字符串
+  String() -- 把对象的值转换为字符串
 
-### String() 语法:
+##### 语法:
 
   ```javascript
   String( object );
   ```
 
-### String() 参数说明:
+##### 参数说明:
 
-object -- JavaScript 对象
+  object -- JavaScript 对象
 
-### String() 函数返回值:
+##### 返回值:
 
   返回 object 的 String 类型值。
 
@@ -39,7 +39,7 @@ object -- JavaScript 对象
 ###### 结果:
 
   ```javascript
-  >>> ......
+  >>>
   Mon Jul 08 2013 11:50:45 GMT+0800
   1234567
   KILLHAPPY

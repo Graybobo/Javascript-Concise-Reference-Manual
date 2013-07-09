@@ -1,18 +1,18 @@
-## Number() 函数
+#### Javascript Number() 函数
 
-Number() -- 把对象的值转换为数字
+  Number() -- 把对象的值转换为数字
 
-### Number() 语法:
+##### 语法:
 
   ```javascript
   Number( object );
   ```
 
-### Number() 参数说明:
+##### 参数说明:
 
-object -- JavaScript 对象
+  object -- JavaScript 对象
 
-### Number() 函数返回值:
+##### 返回值:
 
   - 如果参数是 Date 对象，Number() 返回从 1970 年 1 月 1 日至今的毫秒数。
   - 如果对象的值能够转换为数字，则返回对应的 Number 类型值。
@@ -38,7 +38,7 @@ object -- JavaScript 对象
 ###### 结果:
 
   ```javascript
-  >>> ......
+  >>>
   1373254928703
   1234567
   NaN
