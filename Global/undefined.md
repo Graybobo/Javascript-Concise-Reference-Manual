@@ -1,16 +1,16 @@
-## Javascript undefined 属性
+#### Javascript undefined 属性
 
-undefined -- 表示未定义的值
+  undefined -- 表示未定义的值
 
-### undefined 语法:
+##### 语法:
 
   ```javascript
   undefined;
   ```
 
-### undefined 说明:
+##### 说明:
 
-undefined是全局属性，代表未定义的值。
+  undefined 是全局属性，代表未定义的值。
 
 ###### 示例:
 
@@ -22,6 +22,6 @@ undefined是全局属性，代表未定义的值。
 ###### 结果:
 
   ```javascript
-  >>> var u; console.log( u );
+  >>>
   undefined
   ```

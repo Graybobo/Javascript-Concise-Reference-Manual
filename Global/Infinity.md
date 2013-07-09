@@ -1,16 +1,16 @@
-## Javascript Infinity 属性
+#### Javascript Infinity 属性
 
-Infinity -- 表示无穷大的数值属性
+  Infinity -- 表示无穷大的数值属性
 
-### Infinity 属性语法:
+##### 语法:
 
   ```javascript
   Infinity;
   ```
 
-### Infinity 说明:
+##### 说明:
 
-Infinity是一个全局属性，代表正无穷大的数值。Infinity不是常量。( Number.POSITIVE_INFINITY是常量 )
+  Infinity 是一个全局属性，代表正无穷大的数值。Infinity 不是常量。( Number.POSITIVE_INFINITY 是常量 )
 
 ###### 示例:
 
@@ -21,6 +21,6 @@ Infinity是一个全局属性，代表正无穷大的数值。Infinity不是常�
 ###### 结果:
 
   ```javascript
-  >>> console.log( Infinity );
+  >>>
   Infinity
   ```
