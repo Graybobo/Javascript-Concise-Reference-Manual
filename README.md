@@ -112,3 +112,5 @@ Javascript-Concise-Reference-Manual
   - [isNaN()](/Global/isNaN.md) - 检查某个值是否是数字
   - [Number()](/Global/Number.md) - 把对象的值转换为数字
   - [String()](/Global/String.md) - 把对象的值转换为字符串
+  - [escape()](/Global/escape.md) - 对字符串进行编码/转义
+  - [unescape()](/Global/unescape.md) - 对 escape() 编码过的字符串进行解码
