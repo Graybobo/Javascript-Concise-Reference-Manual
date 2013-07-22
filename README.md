@@ -115,3 +115,4 @@ Javascript-Concise-Reference-Manual
   - [escape()](/Global/escape.md) - 对字符串进行编码/转义
   - [unescape()](/Global/unescape.md) - 对 escape() 编码过的字符串进行解码
   - [parseInt()](/Global/parseInt.md) - 解析字符串并返回一个整数
+  - [parseFloat()](/Global/parseFloat.md) - 解析字符串并返回一个浮点数
