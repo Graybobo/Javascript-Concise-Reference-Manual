@@ -114,3 +114,4 @@ Javascript-Concise-Reference-Manual
   - [String()](/Global/String.md) - 把对象的值转换为字符串
   - [escape()](/Global/escape.md) - 对字符串进行编码/转义
   - [unescape()](/Global/unescape.md) - 对 escape() 编码过的字符串进行解码
+  - [parseInt()](/Global/parseInt.md) - 解析字符串并返回一个整数
