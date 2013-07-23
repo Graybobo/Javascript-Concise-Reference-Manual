@@ -116,3 +116,4 @@ Javascript-Concise-Reference-Manual
   - [unescape()](/Global/unescape.md) - 对 escape() 编码过的字符串进行解码
   - [parseInt()](/Global/parseInt.md) - 解析字符串并返回一个整数
   - [parseFloat()](/Global/parseFloat.md) - 解析字符串并返回一个浮点数
+  - [getClass()](/Global/getClass.md) - 返回一个 JavaObject 的 JavaClass
