@@ -6,4 +6,5 @@
 
   ```javascript
   Object.prototype.name = value;
+  Object.prototype.method = function(){};
   ```
