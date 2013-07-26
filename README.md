@@ -117,3 +117,9 @@ Javascript-Concise-Reference-Manual
   - [parseInt()](/Global/parseInt.md) - 解析字符串并返回一个整数
   - [parseFloat()](/Global/parseFloat.md) - 解析字符串并返回一个浮点数
   - [getClass()](/Global/getClass.md) - 返回一个 JavaObject 的 JavaClass
+
+### Boolean
+
+  - Boolean 对象属性
+  
+    - [constructor](/Boolean/constructor.md) - 返回对创建此对象的 Boolean 函数的引用
