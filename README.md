@@ -127,3 +127,4 @@ Javascript-Concise-Reference-Manual
   - Boolean 对象方法
     - [toSource()](/Boolean/toSource.md) - 返回该对象的源代码
     - [toString()](/Boolean/toString.md) - 把逻辑值转换为字符串 并返回结果
+    - [valueOf()](/Boolean/valueOf.md) - 返回 Boolean 对象的原始值
