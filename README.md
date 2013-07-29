@@ -134,3 +134,4 @@ Javascript-Concise-Reference-Manual
   - Math 对象属性
     - [E](/Math/E.md) - 返回算术常量 e  即自然对数的底数( 约等于2.718 )
     - [LN2](/Math/LN2.md) - 返回 2 的自然对数( 约等于0.693 )
+    - [LN10](/Math/LN10.md) - 返回 10 的自然对数( 约等于2.302 )
