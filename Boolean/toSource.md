@@ -1,4 +1,4 @@
-#### Object toSource 方法
+#### toSource 方法
 
   toSource() 方法返回表示对象源代码的字符串。
 

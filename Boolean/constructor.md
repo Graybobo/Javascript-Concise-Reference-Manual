@@ -1,4 +1,4 @@
-#### Boolean constructor 属性
+#### constructor 属性
 
   constructor 属性返回对创建此对象的 Boolean 函数的引用。
 
