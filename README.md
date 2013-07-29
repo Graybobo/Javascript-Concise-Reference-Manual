@@ -128,3 +128,9 @@ Javascript-Concise-Reference-Manual
     - [toSource()](/Boolean/toSource.md) - 返回该对象的源代码
     - [toString()](/Boolean/toString.md) - 把逻辑值转换为字符串 并返回结果
     - [valueOf()](/Boolean/valueOf.md) - 返回 Boolean 对象的原始值
+
+### Math
+
+  - Math 对象属性
+    - [E](/Math/E.md) - 返回算术常量 e  即自然对数的底数( 约等于2.718 )
+    - [LN2](/Math/LN2.md) - 返回 2 的自然对数( 约等于0.693 )
