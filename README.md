@@ -135,3 +135,5 @@ Javascript-Concise-Reference-Manual
     - [E](/Math/E.md) - 返回算术常量 e  即自然对数的底数( 约等于2.718 )
     - [LN2](/Math/LN2.md) - 返回 2 的自然对数( 约等于0.693 )
     - [LN10](/Math/LN10.md) - 返回 10 的自然对数( 约等于2.302 )
+    - [LOG2E](/Math/LOG2E.md) - 返回以 2 为底的 e 的对数( 约等于 1.443 )
+    - [LOG10E](/Math/LOG10E.md) - 返回以 10 为底的 e 的对数( 约等于0.434 )
