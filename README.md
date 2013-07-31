@@ -155,3 +155,4 @@ Javascript-Concise-Reference-Manual
 
     - [abs(x)](/Math/abs.md) - 返回数的绝对值
     - [acos(x)](/Math/acos.md) - 返回数的反余弦值
+    - [asin(x)](/Math/asin.md) - 返回数的反正弦值
