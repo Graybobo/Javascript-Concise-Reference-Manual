@@ -150,3 +150,7 @@ Javascript-Concise-Reference-Manual
     - [PI](/Math/PI.md) - 返回圆周率( 约等于3.14159 )
     - [SQRT1_2](/Math/SQRT1_2.md) - 返回返回 2 的平方根的倒数( 约等于 0.707 )
     - [SQRT2](/Math/SQRT2.md) - 返回 2 的平方根( 约等于 1.414 )
+
+  - Math 对象方法
+
+    - [abs(x)](/Math/abs.md) - 返回数的绝对值
