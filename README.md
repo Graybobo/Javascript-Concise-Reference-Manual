@@ -154,3 +154,4 @@ Javascript-Concise-Reference-Manual
   - Math 对象方法
 
     - [abs(x)](/Math/abs.md) - 返回数的绝对值
+    - [acos(x)](/Math/acos.md) - 返回数的反余弦值
