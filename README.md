@@ -148,3 +148,4 @@ Javascript-Concise-Reference-Manual
     - [LOG2E](/Math/LOG2E.md) - 返回以 2 为底的 e 的对数( 约等于 1.443 )
     - [LOG10E](/Math/LOG10E.md) - 返回以 10 为底的 e 的对数( 约等于0.434 )
     - [PI](/Math/PI.md) - 返回圆周率( 约等于3.14159 )
+    - [SQRT1_2](/Math/SQRT1_2.md) - 返回返回 2 的平方根的倒数( 约等于 0.707 )
