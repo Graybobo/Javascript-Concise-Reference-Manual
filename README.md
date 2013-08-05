@@ -158,3 +158,4 @@ Javascript-Concise-Reference-Manual
     - [asin(x)](/Math/asin.md) - 返回数的反正弦值
     - [atan(x)](/Math/atan.md) - 以介于 -PI/2 与 PI/2 弧度之间的数值来返回 x 的反正切值
     - [atan2(y,x)](/Math/atan2.md) - 返回从 x 轴到点( x, y )的角度( 介于 -PI/2 与 PI/2 弧度之间 )
+    - [ceil(x)](/Math/ceil.md) - 对数进行上舍入
