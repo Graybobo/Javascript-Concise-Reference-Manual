@@ -160,3 +160,4 @@ Javascript-Concise-Reference-Manual
     - [atan2(y,x)](/Math/atan2.md) - 返回从 x 轴到点( x, y )的角度( 介于 -PI/2 与 PI/2 弧度之间 )
     - [ceil(x)](/Math/ceil.md) - 对数进行上舍入
     - [cos(x)](/Math/cos.md) - 返回数的余弦
+    - [exp(x)](/Math/exp.md) - 返回 e 的指数
