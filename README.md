@@ -161,3 +161,4 @@ Javascript-Concise-Reference-Manual
     - [ceil(x)](/Math/ceil.md) - 对数进行上舍入
     - [cos(x)](/Math/cos.md) - 返回数的余弦
     - [exp(x)](/Math/exp.md) - 返回 e 的指数
+    - [floor(x)](/Math/floor.md) - 对数进行下舍入
