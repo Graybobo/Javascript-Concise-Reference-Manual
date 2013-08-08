@@ -162,3 +162,4 @@ Javascript-Concise-Reference-Manual
     - [cos(x)](/Math/cos.md) - 返回数的余弦
     - [exp(x)](/Math/exp.md) - 返回 e 的指数
     - [floor(x)](/Math/floor.md) - 对数进行下舍入
+    - [log(x)](/Math/log.md) - 返回数的自然对数( 底为e )
