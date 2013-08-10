@@ -164,3 +164,4 @@ Javascript-Concise-Reference-Manual
     - [floor(x)](/Math/floor.md) - 对数进行下舍入
     - [log(x)](/Math/log.md) - 返回数的自然对数( 底为e )
     - [max(x,y,...)](/Math/max.md) - 返回数个数字中较大的值
+    - [min(x,y,...)](/Math/min.md) - 返回数个数字中较小的值
