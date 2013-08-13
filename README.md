@@ -167,3 +167,4 @@ Javascript-Concise-Reference-Manual
     - [min(x,y,...)](/Math/min.md) - 返回数个数字中较小的值
     - [pow(x,y)](/Math/pow.md) - 返回 x 的 y 次幂
     - [random()](/Math/random.md) - 返回 0 ~ 1 之间的随机数
+    - [round(x)](/Math/round.md) - 把数四舍五入为最接近的整数
