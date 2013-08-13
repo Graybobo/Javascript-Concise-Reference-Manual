@@ -165,3 +165,4 @@ Javascript-Concise-Reference-Manual
     - [log(x)](/Math/log.md) - 返回数的自然对数( 底为e )
     - [max(x,y,...)](/Math/max.md) - 返回数个数字中较大的值
     - [min(x,y,...)](/Math/min.md) - 返回数个数字中较小的值
+    - [pow(x,y)](/Math/pow.md) - 返回 x 的 y 次幂
