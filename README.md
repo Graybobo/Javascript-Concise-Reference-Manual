@@ -169,3 +169,4 @@ Javascript-Concise-Reference-Manual
     - [random()](/Math/random.md) - 返回 0 ~ 1 之间的随机数
     - [round(x)](/Math/round.md) - 把数四舍五入为最接近的整数
     - [sin(x)](/Math/sin.md) - 返回数的正弦值
+    - [sqrt(x)](/Math/sqrt.md) - 返回数的平方根
