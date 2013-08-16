@@ -170,3 +170,5 @@ Javascript-Concise-Reference-Manual
     - [round(x)](/Math/round.md) - 把数四舍五入为最接近的整数
     - [sin(x)](/Math/sin.md) - 返回数的正弦值
     - [sqrt(x)](/Math/sqrt.md) - 返回数的平方根
+    - [tan(x)](/Math/tan.md) - 返回数的正切值
+    - [toSource()](/Math/toSource.md) - 返回该对象的源代码
