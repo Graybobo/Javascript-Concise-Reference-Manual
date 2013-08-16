@@ -172,3 +172,4 @@ Javascript-Concise-Reference-Manual
     - [sqrt(x)](/Math/sqrt.md) - 返回数的平方根
     - [tan(x)](/Math/tan.md) - 返回数的正切值
     - [toSource()](/Math/toSource.md) - 返回该对象的源代码
+    - [valueOf()](/Math/valueOf.md) - 返回 Math 对象的原始值
