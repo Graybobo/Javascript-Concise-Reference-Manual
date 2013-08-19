@@ -130,6 +130,7 @@ Javascript-Concise-Reference-Manual
   - RegExp 对象属性
 
     - [global](/RegExp/global.md) - RegExp 对象是否具有标志 g
+    - [ignoreCase](/RegExp/ignoreCase.md) - RegExp 对象是否具有标志 i
 
 ### Boolean
 
