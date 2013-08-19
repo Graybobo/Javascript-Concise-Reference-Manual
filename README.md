@@ -125,6 +125,12 @@ Javascript-Concise-Reference-Manual
   - [parseFloat()](/Global/parseFloat.md) - 解析字符串并返回一个浮点数
   - [getClass()](/Global/getClass.md) - 返回一个 JavaObject 的 JavaClass
 
+### 正则表达式( RegExp )
+
+  - RegExp 对象属性
+
+    - [global](/RegExp/global.md) - RegExp 对象是否具有标志 g
+
 ### Boolean
 
   - Boolean 对象属性
