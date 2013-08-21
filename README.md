@@ -132,6 +132,7 @@ Javascript-Concise-Reference-Manual
     - [global](/RegExp/global.md) - RegExp 对象是否具有标志 g
     - [ignoreCase](/RegExp/ignoreCase.md) - RegExp 对象是否具有标志 i
     - [lastIndex](/RegExp/lastIndex.md) - 一个整数 标示开始下一次匹配的字符位置
+    - [multiline](/RegExp/multiline.md) - RegExp 对象是否具有标志 m
 
 ### Boolean
 
