@@ -134,6 +134,10 @@ Javascript-Concise-Reference-Manual
     - [lastIndex](/RegExp/lastIndex.md) - 一个整数 标示开始下一次匹配的字符位置
     - [multiline](/RegExp/multiline.md) - RegExp 对象是否具有标志 m
     - [source](/RegExp/source.md) - 正则表达式的源文本
+	
+  - RegExp 对象方法
+
+    - [compile](/RegExp/compile.md) - 编译正则表达式
 
 ### Boolean
 
