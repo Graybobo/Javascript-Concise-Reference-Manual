@@ -139,6 +139,7 @@ Javascript-Concise-Reference-Manual
 
     - [compile](/RegExp/compile.md) - 编译正则表达式
     - [exec](/RegExp/exec.md) - 检索字符串中指定的值 返回找到的值 并确定其位置
+    - [test](/RegExp/test.md) - 检索字符串中指定的值 返回 true 或 false
 
 ### Boolean
 
