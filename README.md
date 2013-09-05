@@ -189,3 +189,9 @@ Javascript-Concise-Reference-Manual
     - [tan(x)](/Math/tan.md) - 返回数的正切值
     - [toSource()](/Math/toSource.md) - 返回该对象的源代码
     - [valueOf()](/Math/valueOf.md) - 返回 Math 对象的原始值
+
+### Date
+
+  - Date 对象属性
+
+    - [constructor](/Date/constructor.md) - 返回对创建此对象的 Date 函数的引用
