@@ -195,3 +195,4 @@ Javascript-Concise-Reference-Manual
   - Date 对象属性
 
     - [constructor](/Date/constructor.md) - 返回对创建此对象的 Date 函数的引用
+    - [prototype](/Date/prototype.md) - 使您有能力向对象添加属性和方法
