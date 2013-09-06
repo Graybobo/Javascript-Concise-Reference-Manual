@@ -196,3 +196,7 @@ Javascript-Concise-Reference-Manual
 
     - [constructor](/Date/constructor.md) - 返回对创建此对象的 Date 函数的引用
     - [prototype](/Date/prototype.md) - 使您有能力向对象添加属性和方法
+
+  - Date 对象方法
+
+    - [Date](/Date/Date.md) - 返回当天的日期和时间
