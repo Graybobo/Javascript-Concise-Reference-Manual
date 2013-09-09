@@ -199,4 +199,5 @@ Javascript-Concise-Reference-Manual
 
   - Date 对象方法
 
-    - [Date](/Date/Date.md) - 返回当天的日期和时间
+    - [Date()](/Date/Date.md) - 返回当天的日期和时间
+    - [getDate()](/Date/getDate.md) - 从 Date 对象返回一个月中的某一天( 1 ~ 31 )
