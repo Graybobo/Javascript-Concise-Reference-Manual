@@ -203,3 +203,4 @@ Javascript-Concise-Reference-Manual
     - [getDate()](/Date/getDate.md) - 从 Date 对象返回一个月中的某一天( 1 ~ 31 )
     - [getDay()](/Date/getDay.md) - 从 Date 对象返回一周中的某一天( 0 ~ 6 )
     - [getMonth()](/Date/getMonth.md) - 从 Date 对象返回月份( 0 ~ 11 )
+    - [getFullYear()](/Date/getFullYear.md) - 从 Date 对象以四位数字返回年份
