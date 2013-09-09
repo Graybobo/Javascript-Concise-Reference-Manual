@@ -201,3 +201,4 @@ Javascript-Concise-Reference-Manual
 
     - [Date()](/Date/Date.md) - 返回当天的日期和时间
     - [getDate()](/Date/getDate.md) - 从 Date 对象返回一个月中的某一天( 1 ~ 31 )
+    - [getDay()](/Date/getDay.md) - 从 Date 对象返回一周中的某一天( 0 ~ 6 )
