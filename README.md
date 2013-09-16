@@ -205,3 +205,4 @@ Javascript-Concise-Reference-Manual
     - [getMonth()](/Date/getMonth.md) - 从 Date 对象返回月份( 0 ~ 11 )
     - [getFullYear()](/Date/getFullYear.md) - 从 Date 对象以四位数字返回年份
     - [getYear()](/Date/getYear.md) - 从 Date 对象返回表示年份的两位或四位的数字
+    - [getHours()](/Date/getHours.md) - 返回 Date 对象的小时( 0 ~ 23 )
