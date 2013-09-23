@@ -207,3 +207,4 @@ Javascript-Concise-Reference-Manual
     - [getYear()](/Date/getYear.md) - 从 Date 对象返回表示年份的两位或四位的数字
     - [getHours()](/Date/getHours.md) - 返回 Date 对象的小时( 0 ~ 23 )
     - [getMinutes()](/Date/getMinutes.md) - 返回 Date 对象的分钟( 0 ~ 59 )
+    - [getSeconds()](/Date/getSeconds.md) - 返回 Date 对象的秒数( 0 ~ 59 )
