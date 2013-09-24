@@ -208,3 +208,4 @@ Javascript-Concise-Reference-Manual
     - [getHours()](/Date/getHours.md) - 返回 Date 对象的小时( 0 ~ 23 )
     - [getMinutes()](/Date/getMinutes.md) - 返回 Date 对象的分钟( 0 ~ 59 )
     - [getSeconds()](/Date/getSeconds.md) - 返回 Date 对象的秒数( 0 ~ 59 )
+    - [getMilliseconds()](/Date/getMilliseconds.md) - 返回 Date 对象的毫秒( 0 ~ 999 )
