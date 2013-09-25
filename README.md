@@ -209,3 +209,4 @@ Javascript-Concise-Reference-Manual
     - [getMinutes()](/Date/getMinutes.md) - 返回 Date 对象的分钟( 0 ~ 59 )
     - [getSeconds()](/Date/getSeconds.md) - 返回 Date 对象的秒数( 0 ~ 59 )
     - [getMilliseconds()](/Date/getMilliseconds.md) - 返回 Date 对象的毫秒( 0 ~ 999 )
+    - [getTime()](/Date/getTime.md) - 返回 1970 年 1 月 1 日至今的毫秒数
