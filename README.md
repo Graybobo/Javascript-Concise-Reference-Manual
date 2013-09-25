@@ -210,3 +210,4 @@ Javascript-Concise-Reference-Manual
     - [getSeconds()](/Date/getSeconds.md) - 返回 Date 对象的秒数( 0 ~ 59 )
     - [getMilliseconds()](/Date/getMilliseconds.md) - 返回 Date 对象的毫秒( 0 ~ 999 )
     - [getTime()](/Date/getTime.md) - 返回 1970 年 1 月 1 日至今的毫秒数
+    - [getTimezoneOffset()](/Date/getTimezoneOffset.md) - 返回本地时间与格林威治标准时间( GMT )的分钟差
