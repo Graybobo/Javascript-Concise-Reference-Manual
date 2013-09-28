@@ -213,3 +213,4 @@ Javascript-Concise-Reference-Manual
     - [getTimezoneOffset()](/Date/getTimezoneOffset.md) - 返回本地时间与格林威治标准时间( GMT )的分钟差
     - [getUTCDate()](/Date/getUTCDate.md) - 根据世界时从 Date 对象返回月中的一天( 1 ~ 31 )
     - [getUTCDay()](/Date/getUTCDay.md) - 根据世界时从 Date 对象返回周中的一天( 0 ~ 6 )
+    - [getUTCMonth()](/Date/getUTCMonth.md) - 根据世界时从 Date 对象返回月份( 0 ~ 11 )
