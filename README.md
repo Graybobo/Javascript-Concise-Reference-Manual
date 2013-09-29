@@ -214,3 +214,4 @@ Javascript-Concise-Reference-Manual
     - [getUTCDate()](/Date/getUTCDate.md) - 根据世界时从 Date 对象返回月中的一天( 1 ~ 31 )
     - [getUTCDay()](/Date/getUTCDay.md) - 根据世界时从 Date 对象返回周中的一天( 0 ~ 6 )
     - [getUTCMonth()](/Date/getUTCMonth.md) - 根据世界时从 Date 对象返回月份( 0 ~ 11 )
+    - [getUTCFullYear()](/Date/getUTCFullYear.md) - 根据世界时从 Date 对象返回四位数的年份
