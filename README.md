@@ -218,3 +218,4 @@ Javascript-Concise-Reference-Manual
     - [getUTCHours()](/Date/getUTCHours.md) - 根据世界时返回 Date 对象的小时( 0 ~ 23 )
     - [getUTCMinutes()](/Date/getUTCMinutes.md) - 根据世界时返回 Date 对象的分钟( 0 ~ 59 )
     - [getUTCSeconds()](/Date/getUTCSeconds.md) - 根据世界时返回 Date 对象的秒钟( 0 ~ 59 )
+    - [getUTCMilliseconds()](/Date/getUTCMilliseconds.md) - 根据世界时返回 Date 对象的毫秒( 0 ~ 999 )
