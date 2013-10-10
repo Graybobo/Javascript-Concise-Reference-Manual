@@ -219,3 +219,4 @@ Javascript-Concise-Reference-Manual
     - [getUTCMinutes()](/Date/getUTCMinutes.md) - 根据世界时返回 Date 对象的分钟( 0 ~ 59 )
     - [getUTCSeconds()](/Date/getUTCSeconds.md) - 根据世界时返回 Date 对象的秒钟( 0 ~ 59 )
     - [getUTCMilliseconds()](/Date/getUTCMilliseconds.md) - 根据世界时返回 Date 对象的毫秒( 0 ~ 999 )
+    - [parse()](/Date/parse.md) - 返回 1970 年 1 月 1 日午夜到指定日期( 字符串 )的毫秒数
