@@ -221,3 +221,4 @@ Javascript-Concise-Reference-Manual
     - [getUTCMilliseconds()](/Date/getUTCMilliseconds.md) - 根据世界时返回 Date 对象的毫秒( 0 ~ 999 )
     - [parse()](/Date/parse.md) - 返回 1970 年 1 月 1 日午夜到指定日期( 字符串 )的毫秒数
     - [setDate()](/Date/setDate.md) - 设置 Date 对象中月份的某一天( 1 ~ 31 )
+    - [setMonth()](/Date/setMonth.md) - 设置 Date 对象中月份( 0 ~ 11 )
