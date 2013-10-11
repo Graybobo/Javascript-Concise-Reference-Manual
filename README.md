@@ -222,3 +222,4 @@ Javascript-Concise-Reference-Manual
     - [parse()](/Date/parse.md) - 返回 1970 年 1 月 1 日午夜到指定日期( 字符串 )的毫秒数
     - [setDate()](/Date/setDate.md) - 设置 Date 对象中月份的某一天( 1 ~ 31 )
     - [setMonth()](/Date/setMonth.md) - 设置 Date 对象中月份( 0 ~ 11 )
+    - [setFullYear()](/Date/setFullYear.md) - 设置 Date 对象中的年份( 四位数字 )
