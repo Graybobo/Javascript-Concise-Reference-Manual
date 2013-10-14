@@ -224,3 +224,4 @@ Javascript-Concise-Reference-Manual
     - [setMonth()](/Date/setMonth.md) - 设置 Date 对象中月份( 0 ~ 11 )
     - [setFullYear()](/Date/setFullYear.md) - 设置 Date 对象中的年份( 四位数字 )
     - [setYear()](/Date/setYear.md) - 设置 Date 对象中的年份( 推荐使用 setFullYear() 方法代替 )
+    - [setHours()](/Date/setHours.md) - 设置 Date 对象中的小时( 0 ~ 23 )
