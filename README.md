@@ -226,3 +226,4 @@ Javascript-Concise-Reference-Manual
     - [setYear()](/Date/setYear.md) - 设置 Date 对象中的年份( 推荐使用 setFullYear() 方法代替 )
     - [setHours()](/Date/setHours.md) - 设置 Date 对象中的小时( 0 ~ 23 )
     - [setMinutes()](/Date/setMinutes.md) - 设置 Date 对象中的分钟( 0 ~ 59 )
+    - [setSeconds()](/Date/setSeconds.md) - 设置 Date 对象中的秒钟( 0 ~ 59 )
