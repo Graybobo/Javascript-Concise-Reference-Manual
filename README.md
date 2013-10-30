@@ -228,3 +228,4 @@ Javascript-Concise-Reference-Manual
     - [setMinutes()](/Date/setMinutes.md) - 设置 Date 对象中的分钟( 0 ~ 59 )
     - [setSeconds()](/Date/setSeconds.md) - 设置 Date 对象中的秒钟( 0 ~ 59 )
     - [setMilliseconds()](/Date/setMilliseconds.md) - 设置 Date 对象中的毫秒( 0 ~ 999 )
+    - [setTime()](/Date/setTime.md) - 以毫秒设置 Date 对象
