@@ -230,3 +230,4 @@ Javascript-Concise-Reference-Manual
     - [setMilliseconds()](/Date/setMilliseconds.md) - 设置 Date 对象中的毫秒( 0 ~ 999 )
     - [setTime()](/Date/setTime.md) - 以毫秒设置 Date 对象
     - [setUTCDate()](/Date/setUTCDate.md) - 根据世界时设置 Date 对象中月份的一天( 1 ~ 31 )
+    - [setUTCMonth()](/Date/setUTCMonth.md) - 根据世界时设置 Date 对象中的月份( 0 ~ 11 )
