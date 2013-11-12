@@ -232,3 +232,4 @@ Javascript-Concise-Reference-Manual
     - [setUTCDate()](/Date/setUTCDate.md) - 根据世界时设置 Date 对象中月份的一天( 1 ~ 31 )
     - [setUTCMonth()](/Date/setUTCMonth.md) - 根据世界时设置 Date 对象中的月份( 0 ~ 11 )
     - [setUTCFullYear()](/Date/setUTCFullYear.md) - 根据世界时设置 Date 对象中的年份( 四位数字 )
+    - [setUTCHours()](/Date/setUTCHours.md) - 根据世界时设置 Date 对象中的小时( 0 ~ 23 )
