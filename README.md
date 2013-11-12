@@ -234,3 +234,4 @@ Javascript-Concise-Reference-Manual
     - [setUTCFullYear()](/Date/setUTCFullYear.md) - 根据世界时设置 Date 对象中的年份( 四位数字 )
     - [setUTCHours()](/Date/setUTCHours.md) - 根据世界时设置 Date 对象中的小时( 0 ~ 23 )
     - [setUTCMinutes()](/Date/setUTCMinutes.md) - 根据世界时设置 Date 对象中的分钟( 0 ~ 59 )
+    - [setUTCSeconds()](/Date/setUTCSeconds.md) - 根据世界时设置 Date 对象中的秒钟( 0 ~ 59 )
