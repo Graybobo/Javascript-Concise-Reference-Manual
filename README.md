@@ -236,3 +236,4 @@ Javascript-Concise-Reference-Manual
     - [setUTCMinutes()](/Date/setUTCMinutes.md) - 根据世界时设置 Date 对象中的分钟( 0 ~ 59 )
     - [setUTCSeconds()](/Date/setUTCSeconds.md) - 根据世界时设置 Date 对象中的秒钟( 0 ~ 59 )
     - [setUTCMilliseconds()](/Date/setUTCMilliseconds.md) - 根据世界时设置 Date 对象中的毫秒( 0 ~ 999 )
+    - [toSource()](/Date/toSource.md) - 返回该对象的源代码
