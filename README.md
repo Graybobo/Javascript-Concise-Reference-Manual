@@ -239,3 +239,4 @@ Javascript-Concise-Reference-Manual
     - [toSource()](/Date/toSource.md) - 返回该对象的源代码
     - [toString()](/Date/toString.md) - 把 Date 对象转换为字符串
     - [toTimeString()](/Date/toTimeString.md) - 把 Date 对象的时间部分转换为字符串
+    - [toDateString()](/Date/toDateString.md) - 把 Date 对象的日期部分转换为字符串
