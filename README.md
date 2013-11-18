@@ -240,3 +240,4 @@ Javascript-Concise-Reference-Manual
     - [toString()](/Date/toString.md) - 把 Date 对象转换为字符串
     - [toTimeString()](/Date/toTimeString.md) - 把 Date 对象的时间部分转换为字符串
     - [toDateString()](/Date/toDateString.md) - 把 Date 对象的日期部分转换为字符串
+    - [toGMTString()](/Date/toGMTString.md) - 根据格林威治时间( GMT )把 Date 对象转换为字符串
