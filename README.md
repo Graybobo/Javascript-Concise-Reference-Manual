@@ -244,3 +244,4 @@ Javascript-Concise-Reference-Manual
     - [toUTCString()](/Date/toUTCString.md) - 根据世界时 把 Date 对象转换为字符串
     - [toLocaleString()](/Date/toLocaleString.md) - 根据本地时间格式 把 Date 对象转换为字符串
     - [toLocaleTimeString()](/Date/toLocaleTimeString.md) - 根据本地时间格式 把 Date 对象的时间部分转换为字符串
+    - [toLocaleDateString()](/Date/toLocaleDateString.md) - 根据本地时间格式 把 Date 对象的日期部分转换为字符串
