@@ -245,3 +245,4 @@ Javascript-Concise-Reference-Manual
     - [toLocaleString()](/Date/toLocaleString.md) - 根据本地时间格式 把 Date 对象转换为字符串
     - [toLocaleTimeString()](/Date/toLocaleTimeString.md) - 根据本地时间格式 把 Date 对象的时间部分转换为字符串
     - [toLocaleDateString()](/Date/toLocaleDateString.md) - 根据本地时间格式 把 Date 对象的日期部分转换为字符串
+    - [UTC()](/Date/UTC.md) - 根据世界时返回 1970 年 1 月 1 日 到指定日期的毫秒数
