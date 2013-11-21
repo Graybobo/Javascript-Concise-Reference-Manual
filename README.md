@@ -141,19 +141,6 @@ Javascript-Concise-Reference-Manual
     - [exec()](/RegExp/exec.md) - 检索字符串中指定的值 返回找到的值 并确定其位置
     - [test()](/RegExp/test.md) - 检索字符串中指定的值 返回 true 或 false
 
-### Boolean
-
-  - Boolean 对象属性
-    
-    - [constructor](/Boolean/constructor.md) - 返回对创建此对象的 Boolean 函数的引用
-    - [prototype](/Boolean/prototype.md) - 使您有能力向对象添加属性和方法
-
-  - Boolean 对象方法
-  
-    - [toSource()](/Boolean/toSource.md) - 返回该对象的源代码
-    - [toString()](/Boolean/toString.md) - 把逻辑值转换为字符串 并返回结果
-    - [valueOf()](/Boolean/valueOf.md) - 返回 Boolean 对象的原始值
-
 ### Math
 
   - Math 对象属性
@@ -247,3 +234,16 @@ Javascript-Concise-Reference-Manual
     - [toLocaleDateString()](/Date/toLocaleDateString.md) - 根据本地时间格式 把 Date 对象的日期部分转换为字符串
     - [UTC()](/Date/UTC.md) - 根据世界时返回 1970 年 1 月 1 日 到指定日期的毫秒数
     - [valueOf()](/Date/valueOf.md) - 返回 Date 对象的原始值
+
+### Boolean
+
+  - Boolean 对象属性
+    
+    - [constructor](/Boolean/constructor.md) - 返回对创建此对象的 Boolean 函数的引用
+    - [prototype](/Boolean/prototype.md) - 使您有能力向对象添加属性和方法
+
+  - Boolean 对象方法
+  
+    - [toSource()](/Boolean/toSource.md) - 返回该对象的源代码
+    - [toString()](/Boolean/toString.md) - 把逻辑值转换为字符串 并返回结果
+    - [valueOf()](/Boolean/valueOf.md) - 返回 Boolean 对象的原始值
