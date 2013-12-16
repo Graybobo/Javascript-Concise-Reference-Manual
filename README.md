@@ -253,3 +253,4 @@ Javascript-Concise-Reference-Manual
   - Number 对象属性
 
     - [constructor](/Number/constructor.md) - 返回对创建此对象的 Number 函数的引用
+    - [MAX_VALUE](/Number/MAX_VALUE.md) - 可表示的最大的数
