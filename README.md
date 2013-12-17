@@ -256,3 +256,4 @@ Javascript-Concise-Reference-Manual
     - [MAX_VALUE](/Number/MAX_VALUE.md) - 可表示的最大的数
     - [MIN_VALUE](/Number/MIN_VALUE.md) - 可表示的最小的数
     - [NaN](/Number/NaN.md) - 非数字值
+    - [NEGATIVE_INFINITY](/Number/NEGATIVE_INFINITY.md) - 负无穷大 溢出时返回该值
