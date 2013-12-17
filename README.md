@@ -255,3 +255,4 @@ Javascript-Concise-Reference-Manual
     - [constructor](/Number/constructor.md) - 返回对创建此对象的 Number 函数的引用
     - [MAX_VALUE](/Number/MAX_VALUE.md) - 可表示的最大的数
     - [MIN_VALUE](/Number/MIN_VALUE.md) - 可表示的最小的数
+    - [NaN](/Number/NaN.md) - 非数字值
