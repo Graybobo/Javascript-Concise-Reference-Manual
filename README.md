@@ -257,3 +257,4 @@ Javascript-Concise-Reference-Manual
     - [MIN_VALUE](/Number/MIN_VALUE.md) - 可表示的最小的数
     - [NaN](/Number/NaN.md) - 非数字值
     - [NEGATIVE_INFINITY](/Number/NEGATIVE_INFINITY.md) - 负无穷大 溢出时返回该值
+    - [POSITIVE_INFINITY](/Number/POSITIVE_INFINITY.md) - 正无穷大 溢出时返回该值
