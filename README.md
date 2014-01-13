@@ -258,3 +258,4 @@ Javascript-Concise-Reference-Manual
     - [NaN](/Number/NaN.md) - 非数字值
     - [NEGATIVE_INFINITY](/Number/NEGATIVE_INFINITY.md) - 负无穷大 溢出时返回该值
     - [POSITIVE_INFINITY](/Number/POSITIVE_INFINITY.md) - 正无穷大 溢出时返回该值
+    - [prototype](/Number/prototype.md) - 使您有能力向对象添加属性和方法
