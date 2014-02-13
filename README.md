@@ -263,3 +263,4 @@ Javascript-Concise-Reference-Manual
   - Number 对象方法
 
     - [toString()](/Number/toString.md) - 把数字转换为字符串 使用指定的基数
+    - [toLocaleString()](/Number/toLocaleString.md) - 把数字转换为字符串 使用本地数字格式顺序
