@@ -265,3 +265,4 @@ Javascript-Concise-Reference-Manual
     - [toString()](/Number/toString.md) - 把数字转换为字符串 使用指定的基数
     - [toLocaleString()](/Number/toLocaleString.md) - 把数字转换为字符串 使用本地数字格式顺序
     - [toFixed()](/Number/toFixed.md) - 把数字转换为字符串 结果的小数点后有指定位数的数字
+    - [toExponential()](/Number/toExponential.md) - 把对象的值转换为指数计数法
