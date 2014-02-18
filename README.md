@@ -268,3 +268,9 @@ Javascript-Concise-Reference-Manual
     - [toExponential()](/Number/toExponential.md) - 把对象的值转换为指数计数法
     - [toPrecision()](/Number/toPrecision.md) - 把数字格式化为指定的长度
     - [valueOf()](/Number/valueOf.md) - 返回一个 Number 对象的基本数字值
+
+### String
+
+  - String 对象属性
+
+    - [constructor](/String/constructor.md) - 返回对创建此对象的 String 函数的引用
