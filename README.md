@@ -274,3 +274,4 @@ Javascript-Concise-Reference-Manual
   - String 对象属性
 
     - [constructor](/String/constructor.md) - 返回对创建此对象的 String 函数的引用
+    - [length](/String/length.md) - 返回字符串的长度
