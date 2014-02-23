@@ -282,3 +282,4 @@ Javascript-Concise-Reference-Manual
     - [anchor()](/String/anchor.md) - 创建 HTML 锚
     - [big()](/String/big.md) - 用大号字体显示字符串
     - [blink()](/String/blink.md) - 显示闪动字符串
+    - [bold()](/String/bold.md) - 用粗体显示字符串
