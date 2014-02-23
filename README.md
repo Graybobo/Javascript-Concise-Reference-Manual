@@ -280,3 +280,4 @@ Javascript-Concise-Reference-Manual
   - String 对象方法
 
     - [anchor()](/String/anchor.md) - 创建 HTML 锚
+    - [big()](/String/big.md) - 用大号字体显示字符串
