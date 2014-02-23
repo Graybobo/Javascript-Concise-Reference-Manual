@@ -8,7 +8,7 @@
   stringObject.blink();
   ```
 
-##### 注:
+##### 说明:
 
   此方法无法工作于 Internet Explorer 中。
 
