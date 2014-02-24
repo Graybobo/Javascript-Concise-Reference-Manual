@@ -284,3 +284,4 @@ Javascript-Concise-Reference-Manual
     - [blink()](/String/blink.md) - 显示闪动字符串
     - [bold()](/String/bold.md) - 用粗体显示字符串
     - [charAt()](/String/charAt.md) - 返回在指定位置的字符
+    - [charCodeAt()](/String/charCodeAt.md) - 返回在指定的位置的字符的 Unicode 编码
