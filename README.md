@@ -283,3 +283,4 @@ Javascript-Concise-Reference-Manual
     - [big()](/String/big.md) - 用大号字体显示字符串
     - [blink()](/String/blink.md) - 显示闪动字符串
     - [bold()](/String/bold.md) - 用粗体显示字符串
+    - [charAt()](/String/charAt.md) - 返回在指定位置的字符
