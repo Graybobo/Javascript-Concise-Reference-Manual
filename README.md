@@ -285,4 +285,4 @@ Javascript-Concise-Reference-Manual
     - [bold()](/String/bold.md) - 用粗体显示字符串
     - [charAt()](/String/charAt.md) - 返回在指定位置的字符
     - [charCodeAt()](/String/charCodeAt.md) - 返回在指定的位置的字符的 Unicode 编码
-	- [concat()](/String/concat.md) - 连接字符串
+    - [concat()](/String/concat.md) - 连接字符串
