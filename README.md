@@ -287,3 +287,4 @@ Javascript-Concise-Reference-Manual
     - [charCodeAt()](/String/charCodeAt.md) - 返回在指定的位置的字符的 Unicode 编码
     - [concat()](/String/concat.md) - 连接字符串
     - [fixed()](/String/fixed.md) - 以打字机文本显示字符串
+    - [fontcolor()](/String/fontcolor.md) - 使用指定的颜色来显示字符串
