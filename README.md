@@ -289,3 +289,4 @@ Javascript-Concise-Reference-Manual
     - [fixed()](/String/fixed.md) - 以打字机文本显示字符串
     - [fontcolor()](/String/fontcolor.md) - 使用指定的颜色来显示字符串
     - [fontsize()](/String/fontsize.md) - 使用指定的尺寸来显示字符串
+    - [fromCharCode()](/String/fromCharCode.md) - 从字符编码创建一个字符串
