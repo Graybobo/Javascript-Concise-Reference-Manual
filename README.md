@@ -292,3 +292,4 @@ Javascript-Concise-Reference-Manual
     - [fromCharCode()](/String/fromCharCode.md) - 从字符编码创建一个字符串
     - [indexOf()](/String/indexOf.md) - 检索字符串
     - [italics()](/String/italics.md) - 使用斜体显示字符串
+    - [lastIndexOf()](/String/lastIndexOf.md) - 从后向前检索字符串
