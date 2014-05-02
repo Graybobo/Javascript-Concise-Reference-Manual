@@ -293,3 +293,4 @@ Javascript-Concise-Reference-Manual
     - [indexOf()](/String/indexOf.md) - 检索字符串
     - [italics()](/String/italics.md) - 使用斜体显示字符串
     - [lastIndexOf()](/String/lastIndexOf.md) - 从后向前检索字符串
+    - [link()](/String/link.md) - 把字符串显示为链接

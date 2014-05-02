@@ -13,7 +13,7 @@
   search_value - 必需。规定需检索的字符串值。
   from_index - 可选的整数参数。规定在字符串中开始检索的位置。它的合法取值是 0 到 stringObject.length - 1。如省略该参数，则将从字符串的最后一个字符处开始检索。
 
-##### 返回值
+##### 返回值:
 
   如果在 stringObject 中的 fromindex 位置之前存在 searchvalue，则返回的是出现的最后一个 searchvalue 的位置。
   
