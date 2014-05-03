@@ -294,3 +294,4 @@ Javascript-Concise-Reference-Manual
     - [italics()](/String/italics.md) - 使用斜体显示字符串
     - [lastIndexOf()](/String/lastIndexOf.md) - 从后向前检索字符串
     - [link()](/String/link.md) - 把字符串显示为链接
+    - [localeCompare()](/String/localeCompare.md) - 用本地特定的顺序来比较两个字符串
