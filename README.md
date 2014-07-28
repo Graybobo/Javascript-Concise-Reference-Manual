@@ -298,3 +298,4 @@ Javascript-Concise-Reference-Manual
     - [match()](/String/match.md) - 检索指定的值或一个或多个正则表达式的匹配
     - [replace()](/String/replace.md) - 替换与查询字符串或正则表达式匹配的子串
     - [search()](/String/search.md) - 检索指定的子字符串或与正则表达式相匹配的子字符串
+    - [slice()](/String/slice.md) - 提取字符串的某个子部分 并以新的字符串返回被提取的部分
