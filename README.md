@@ -300,3 +300,4 @@ Javascript-Concise-Reference-Manual
     - [search()](/String/search.md) - 检索指定的子字符串或与正则表达式相匹配的子字符串
     - [slice()](/String/slice.md) - 提取字符串的某个子部分 并以新的字符串返回被提取的部分
     - [small()](/String/small.md) - 使用小字号来显示字符串
+    - [split()](/String/split.md) - 将字符串分割为字符串数组
