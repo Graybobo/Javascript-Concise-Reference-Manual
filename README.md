@@ -299,3 +299,4 @@ Javascript-Concise-Reference-Manual
     - [replace()](/String/replace.md) - 替换与查询字符串或正则表达式匹配的子串
     - [search()](/String/search.md) - 检索指定的子字符串或与正则表达式相匹配的子字符串
     - [slice()](/String/slice.md) - 提取字符串的某个子部分 并以新的字符串返回被提取的部分
+    - [small()](/String/small.md) - 使用小字号来显示字符串
