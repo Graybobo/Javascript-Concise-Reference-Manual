@@ -302,3 +302,4 @@ Javascript-Concise-Reference-Manual
     - [small()](/String/small.md) - 使用小字号来显示字符串
     - [split()](/String/split.md) - 将字符串分割为字符串数组
     - [strike()](/String/strike.md) - 用删除线显示字符串
+    - [sub()](/String/sub.md) - 把字符串显示为下标
