@@ -303,3 +303,4 @@ Javascript-Concise-Reference-Manual
     - [split()](/String/split.md) - 将字符串分割为字符串数组
     - [strike()](/String/strike.md) - 用删除线显示字符串
     - [sub()](/String/sub.md) - 把字符串显示为下标
+    - [substr()](/String/substr.md) - 从起始索引位置提取字符串中指定数目的字符
