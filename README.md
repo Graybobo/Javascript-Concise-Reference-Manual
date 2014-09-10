@@ -305,3 +305,4 @@ Javascript-Concise-Reference-Manual
     - [sub()](/String/sub.md) - 把字符串显示为下标
     - [substr()](/String/substr.md) - 从起始索引位置提取字符串中指定数目的字符
     - [substring()](/String/substring.md) - 提取字符串中两个指定的索引位置之间的字符
+    - [sup()](/String/sup.md) - 把字符串显示为上标
