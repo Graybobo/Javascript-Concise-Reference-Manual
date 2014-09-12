@@ -307,3 +307,4 @@ Javascript-Concise-Reference-Manual
     - [substring()](/String/substring.md) - 提取字符串中两个指定的索引位置之间的字符
     - [sup()](/String/sup.md) - 把字符串显示为上标
     - [toLocaleLowerCase()](/String/toLocaleLowerCase.md) - 把字符串转换为小写
+    - [toLocaleUpperCase()](/String/toLocaleUpperCase.md) - 把字符串转换为大写
