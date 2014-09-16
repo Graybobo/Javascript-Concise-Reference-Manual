@@ -309,3 +309,4 @@ Javascript-Concise-Reference-Manual
     - [toLocaleLowerCase()](/String/toLocaleLowerCase.md) - 把字符串转换为小写
     - [toLocaleUpperCase()](/String/toLocaleUpperCase.md) - 把字符串转换为大写
     - [toLowerCase()](/String/toLowerCase.md) - 把字符串转换为小写
+    - [toUpperCase()](/String/toUpperCase.md) - 把字符串转换为大写

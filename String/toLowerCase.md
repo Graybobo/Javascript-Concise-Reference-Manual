@@ -17,7 +17,7 @@
   ```javascript
   var Str = "Hello KILLHAPPY";
 	  
-  console.log( Str.toLocaleLowerCase() );
+  console.log( Str.toLowerCase() );
   ```
 
 ###### 结果:
