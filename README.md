@@ -312,3 +312,4 @@ Javascript-Concise-Reference-Manual
     - [toUpperCase()](/String/toUpperCase.md) - 把字符串转换为大写
     - [toSource()](/String/toSource.md) - 返回该对象的源代码
     - [toString()](/String/toString.md) - 返回字符串的原始字符串值
+    - [valueOf()](/String/valueOf.md) - 返回字符串对象的原始值
