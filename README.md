@@ -313,3 +313,9 @@ Javascript-Concise-Reference-Manual
     - [toSource()](/String/toSource.md) - 返回该对象的源代码
     - [toString()](/String/toString.md) - 返回字符串的原始字符串值
     - [valueOf()](/String/valueOf.md) - 返回字符串对象的原始值
+
+### Array
+
+  - Array 对象属性
+
+    - [constructor()](/Array/constructor.md) - 返回对创建此对象的 Array 函数的引用
