@@ -319,3 +319,4 @@ Javascript-Concise-Reference-Manual
   - Array 对象属性
 
     - [constructor()](/Array/constructor.md) - 返回对创建此对象的 Array 函数的引用
+    - [length()](/Array/length.md) - 设置或返回数组中元素的数目
