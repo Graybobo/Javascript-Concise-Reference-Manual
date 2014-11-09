@@ -320,3 +320,4 @@ Javascript-Concise-Reference-Manual
 
     - [constructor()](/Array/constructor.md) - 返回对创建此对象的 Array 函数的引用
     - [length()](/Array/length.md) - 设置或返回数组中元素的数目
+    - [prototype](/Array/prototype.md) - 使您有能力向对象添加属性和方法
