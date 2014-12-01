@@ -325,3 +325,4 @@ Javascript-Concise-Reference-Manual
   - Array 对象方法
 
     - [concat()](/Array/concat.md) - 连接两个或多个数组
+    - [join()](/Array/join.md) - 把数组的元素放入一个字符串 元素通过指定的分隔符进行分隔
