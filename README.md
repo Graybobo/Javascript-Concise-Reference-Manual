@@ -328,3 +328,4 @@ Javascript-Concise-Reference-Manual
     - [join()](/Array/join.md) - 把数组的元素放入一个字符串 元素通过指定的分隔符进行分隔
     - [pop()](/Array/pop.md) - 删除并返回数组的最后一个元素
     - [push()](/Array/push.md) - 向数组的尾部添加元素 返回新的长度
+    - [reverse()](/Array/reverse.md) - 颠倒数组中元素的顺序
