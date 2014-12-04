@@ -329,3 +329,4 @@ Javascript-Concise-Reference-Manual
     - [pop()](/Array/pop.md) - 删除并返回数组的最后一个元素
     - [push()](/Array/push.md) - 向数组的尾部添加元素 返回新的长度
     - [reverse()](/Array/reverse.md) - 颠倒数组中元素的顺序
+    - [shift()](/Array/shift.md) - 删除并返回数组的第一个元素
