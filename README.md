@@ -330,3 +330,4 @@ Javascript-Concise-Reference-Manual
     - [push()](/Array/push.md) - 向数组的尾部添加元素 返回新的长度
     - [reverse()](/Array/reverse.md) - 颠倒数组中元素的顺序
     - [shift()](/Array/shift.md) - 删除并返回数组的第一个元素
+    - [slice()](/Array/slice.md) - 从已有数组返回选定的元素
