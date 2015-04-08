@@ -331,3 +331,4 @@ Javascript-Concise-Reference-Manual
     - [reverse()](/Array/reverse.md) - 颠倒数组中元素的顺序
     - [shift()](/Array/shift.md) - 删除并返回数组的第一个元素
     - [slice()](/Array/slice.md) - 从已有数组返回选定的元素
+    - [sort()](/Array/sort.md) - 对数组的元素进行排序
