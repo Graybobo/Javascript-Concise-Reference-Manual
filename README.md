@@ -332,3 +332,4 @@ Javascript-Concise-Reference-Manual
     - [shift()](/Array/shift.md) - 删除并返回数组的第一个元素
     - [slice()](/Array/slice.md) - 从已有数组返回选定的元素
     - [sort()](/Array/sort.md) - 对数组的元素进行排序
+    - [splice()](/Array/splice.md) - 删除数组中的元素 并向数组添加新元素
