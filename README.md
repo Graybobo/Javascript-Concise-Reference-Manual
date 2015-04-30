@@ -334,3 +334,4 @@ Javascript-Concise-Reference-Manual
     - [sort()](/Array/sort.md) - 对数组的元素进行排序
     - [splice()](/Array/splice.md) - 删除数组中的元素 并向数组添加新元素
     - [toSource()](/Array/toSource.md) - 返回该对象的源代码
+    - [toString()](/Array/toString.md) - 把数组转换为字符串
