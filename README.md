@@ -335,3 +335,4 @@ Javascript-Concise-Reference-Manual
     - [splice()](/Array/splice.md) - 删除数组中的元素 并向数组添加新元素
     - [toSource()](/Array/toSource.md) - 返回该对象的源代码
     - [toString()](/Array/toString.md) - 把数组转换为字符串
+    - [toLocaleString()](/Array/toLocaleString.md) - 把数组转换为本地字符串
