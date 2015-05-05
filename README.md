@@ -336,3 +336,4 @@ Javascript-Concise-Reference-Manual
     - [toSource()](/Array/toSource.md) - 返回该对象的源代码
     - [toString()](/Array/toString.md) - 把数组转换为字符串
     - [toLocaleString()](/Array/toLocaleString.md) - 把数组转换为本地字符串
+    - [unshift()](/Array/unshift.md) - 向数组的开头添加元素 并返回新的长度
