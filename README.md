@@ -337,3 +337,4 @@ Javascript-Concise-Reference-Manual
     - [toString()](/Array/toString.md) - 把数组转换为字符串
     - [toLocaleString()](/Array/toLocaleString.md) - 把数组转换为本地字符串
     - [unshift()](/Array/unshift.md) - 向数组的开头添加元素 并返回新的长度
+    - [valueOf()](/Array/valueOf.md) - 返回数组对象的原始值
