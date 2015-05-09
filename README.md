@@ -338,3 +338,27 @@ Javascript-Concise-Reference-Manual
     - [toLocaleString()](/Array/toLocaleString.md) - 把数组转换为本地字符串
     - [unshift()](/Array/unshift.md) - 向数组的开头添加元素 并返回新的长度
     - [valueOf()](/Array/valueOf.md) - 返回数组对象的原始值
+
+### Events
+
+  - onabort               - 图像加载中断
+  - onblur                - 元素失去焦点
+  - onchange              - 用户改变域的内容
+  - onclick               - 鼠标点击某个对象
+  - ondblclick            - 鼠标双击某个对象
+  - onerror               - 加载文档或图像时发生错误
+  - onfocus               - 元素获得焦点
+  - onkeydown             - 某个键盘的键被按下
+  - onkeypress            - 某个键盘的键被按下或按住
+  - onkeyup               - 某个键盘的键被松开
+  - onload                - 某个页面或图像被完成加载
+  - onmousedown           - 某个鼠标按键被按下
+  - onmousemove           - 鼠标移动
+  - onmouseout            - 鼠标从某元素移开
+  - onmouseover           - 鼠标被移到某元素之上
+  - onmouseup             - 某个鼠标按键被松开
+  - onreset               - 重置按钮被点击
+  - onresize              - 窗口或框架被调整尺寸
+  - onselect              - 文本被选定
+  - onsubmit              - 提交按钮动作
+  - onunload              - 页面关闭或退出
